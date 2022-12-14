@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0ddc2af.css",
+    "main.js": "/static/js/main.03cbbb22.js",
+    "static/js/787.e8059ef9.chunk.js": "/static/js/787.e8059ef9.chunk.js",
+    "static/media/Vinayak.jpeg": "/static/media/Vinayak.1c18792307a251b1669e.jpeg",
+    "index.html": "/index.html",
+    "main.d0ddc2af.css.map": "/static/css/main.d0ddc2af.css.map",
+    "main.03cbbb22.js.map": "/static/js/main.03cbbb22.js.map",
+    "787.e8059ef9.chunk.js.map": "/static/js/787.e8059ef9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ddc2af.css",
+    "static/js/main.03cbbb22.js"
+  ]
+}
